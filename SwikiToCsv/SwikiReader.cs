@@ -7,10 +7,13 @@ namespace SwikiToCsv
     {
         public List<string> Lines { get; set; }
 
-        public SwikiReader(string filePath)
+        public SwikiReader(
+            string filePath)
         {
-            var swikiFile = File.ReadAllLines(filePath);
-            Lines = new List<string>(swikiFile);
+            var swikiFile = File.ReadAllLines(
+                filePath);
+            Lines = new List<string>(
+                swikiFile);
         }
 
     }
