@@ -1,0 +1,17 @@
+C:\developer\Projects\SwikiUtes\SwikiToCsv\bin\Debug\net5.0\dailystats.swiki
+C:\developer\Projects\SwikiUtes\SwikiToCsv\bin\Debug\net5.0\SwikiToCsv.exe
+C:\developer\Projects\SwikiUtes\SwikiToCsv\bin\Debug\net5.0\SwikiToCsv.deps.json
+C:\developer\Projects\SwikiUtes\SwikiToCsv\bin\Debug\net5.0\SwikiToCsv.runtimeconfig.json
+C:\developer\Projects\SwikiUtes\SwikiToCsv\bin\Debug\net5.0\SwikiToCsv.runtimeconfig.dev.json
+C:\developer\Projects\SwikiUtes\SwikiToCsv\bin\Debug\net5.0\SwikiToCsv.dll
+C:\developer\Projects\SwikiUtes\SwikiToCsv\bin\Debug\net5.0\ref\SwikiToCsv.dll
+C:\developer\Projects\SwikiUtes\SwikiToCsv\bin\Debug\net5.0\SwikiToCsv.pdb
+C:\developer\Projects\SwikiUtes\SwikiToCsv\obj\Debug\net5.0\SwikiToCsv.csproj.AssemblyReference.cache
+C:\developer\Projects\SwikiUtes\SwikiToCsv\obj\Debug\net5.0\SwikiToCsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\developer\Projects\SwikiUtes\SwikiToCsv\obj\Debug\net5.0\SwikiToCsv.AssemblyInfoInputs.cache
+C:\developer\Projects\SwikiUtes\SwikiToCsv\obj\Debug\net5.0\SwikiToCsv.AssemblyInfo.cs
+C:\developer\Projects\SwikiUtes\SwikiToCsv\obj\Debug\net5.0\SwikiToCsv.csproj.CoreCompileInputs.cache
+C:\developer\Projects\SwikiUtes\SwikiToCsv\obj\Debug\net5.0\SwikiToCsv.dll
+C:\developer\Projects\SwikiUtes\SwikiToCsv\obj\Debug\net5.0\ref\SwikiToCsv.dll
+C:\developer\Projects\SwikiUtes\SwikiToCsv\obj\Debug\net5.0\SwikiToCsv.pdb
+C:\developer\Projects\SwikiUtes\SwikiToCsv\obj\Debug\net5.0\SwikiToCsv.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qHXqoA54ZgdezOIRIJemkFUAW+MNqQhZEL+okG1Pg3vQPx4GxGbtDxQ2XxLP2dsVNQ+3FQvxo/U/+Ek6UdTkqQ==",
+  "success": true,
+  "projectFilePath": "C:\\developer\\Projects\\SwikiUtes\\SwikiToCsv\\SwikiToCsv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sc0779\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.7\\microsoft.netcore.app.runtime.win-x64.5.0.7.nupkg.sha512",
+    "C:\\Users\\sc0779\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.7.nupkg.sha512",
+    "C:\\Users\\sc0779\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.7\\microsoft.aspnetcore.app.runtime.win-x64.5.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

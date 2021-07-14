@@ -1,0 +1,11 @@
+C:\Developer\Projects\SwikiUtes\SwikiToCsv\obj\Debug\netcoreapp2.2\SwikiToCsv.AssemblyInfoInputs.cache
+C:\Developer\Projects\SwikiUtes\SwikiToCsv\obj\Debug\netcoreapp2.2\SwikiToCsv.AssemblyInfo.cs
+C:\Developer\Projects\SwikiUtes\SwikiToCsv\bin\Debug\netcoreapp2.2\SwikiToCsv.deps.json
+C:\Developer\Projects\SwikiUtes\SwikiToCsv\bin\Debug\netcoreapp2.2\SwikiToCsv.runtimeconfig.json
+C:\Developer\Projects\SwikiUtes\SwikiToCsv\bin\Debug\netcoreapp2.2\SwikiToCsv.runtimeconfig.dev.json
+C:\Developer\Projects\SwikiUtes\SwikiToCsv\bin\Debug\netcoreapp2.2\SwikiToCsv.dll
+C:\Developer\Projects\SwikiUtes\SwikiToCsv\bin\Debug\netcoreapp2.2\SwikiToCsv.pdb
+C:\Developer\Projects\SwikiUtes\SwikiToCsv\obj\Debug\netcoreapp2.2\SwikiToCsv.dll
+C:\Developer\Projects\SwikiUtes\SwikiToCsv\obj\Debug\netcoreapp2.2\SwikiToCsv.pdb
+C:\Developer\Projects\SwikiUtes\SwikiToCsv\bin\Debug\netcoreapp2.2\dailystats.swiki
+C:\Developer\Projects\SwikiUtes\SwikiToCsv\obj\Debug\netcoreapp2.2\SwikiToCsv.csprojAssemblyReference.cache
